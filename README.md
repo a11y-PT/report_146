@@ -4,9 +4,9 @@ date: "20/07/2026"                    # Entre as aspas escreve a data de criaç�
 uri: "https://diretorio.cm-maia.pt/"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://diretorio.cm-maia.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "Município da Maia"         # Entre as aspas escrever o nome do owner do website
-seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
-validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
-status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
+seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+validity: "08/09/2026 a 08/09/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
+status: "Concluído" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
 ---
 
 # Relatório de auditoria
@@ -29,6 +29,7 @@ Consulte aqui a última atualização: [Relatório {{ page.website }}](report.ht
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
+    <li><a href="08092026_report.html">(08/09/2026). Relatório {{ page.website }}</a></li>
     <li><a href="20072026_report.html">(20/07/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
